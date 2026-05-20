@@ -45,8 +45,8 @@ Meet the brilliant minds and contributors behind Hay.Five.ID. We are a diverse g
 | :--- | :--- | :--- | :--- | :--- |
 | **Dimas Rio Adisaputra** | 0110222239 | Web Development | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasrioadisaputra/) |
 | **Hartanto Wawangi Mukti** | 0110222074 | UI/UX Design | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tantomukti/) |
-| **Ardika Oktavian** | 0110222151 | Machine Learning | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardika-o-45b923252/) |
-| **Azriel Rakhan Bilal** | 10220054 | Cloud Computing | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#) |
+| **Ardika Oktavian** | 0110222151 | Cyber Security | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardika-o-45b923252/) |
+| **Azriel Rakhan Bilal** | 10220054 | Cloud Computing | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azriel-rakhan-bilal/) |
 
 ---
 <div align="center">
