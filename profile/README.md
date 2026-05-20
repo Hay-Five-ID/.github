@@ -41,7 +41,7 @@ Explore the creativity and technical mastery of IT 05. Visit our platform live t
 
 Meet the brilliant minds and contributors behind Hay.Five.ID. We are a diverse group of passionate developers, designers, and innovators.
 
-| Member | Student ID | Path | University | Contact |
+| Member | Student ID | Role | University | Contact |
 | :--- | :--- | :--- | :--- | :--- |
 | **Dimas Rio Adisaputra** | 0110222239 | Web Development | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasrioadisaputra/) |
 | **Hartanto Wawangi Mukti** | 0110222074 | UI/UX Design | Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tantomukti/) |
